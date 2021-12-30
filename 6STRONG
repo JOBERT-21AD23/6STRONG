@@ -130,3 +130,4 @@ while run is True:
     player(px, py)
     show_score(textx, texty)
     pygame.display.update()
+# Done by Abdul(21AD01), Sarup(21AD45) and Jobert(21AD23)
